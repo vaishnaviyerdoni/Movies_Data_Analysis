@@ -2,7 +2,7 @@
 
 ### Description
 
-##### In this Project the analysis of the Dataset which involves the data about the variety of Popular movies. This project was undertaken to analyse the performance and popularity of the movies. 
+##### The Project involves the analysis of the Dataset which involves the data about the variety of Popular movies. This project was undertaken to analyse the performance and popularity of the movies. 
 
 ##### This Project involves the Correlation analysis, and to verify whether the high correlation would imply the better performance of a movies.
 
